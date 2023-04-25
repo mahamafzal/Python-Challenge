@@ -2,7 +2,7 @@ import os
 import csv
 import statistics
 
-datafile = "budget_data.csv"
+datafile = "PyBank/Resources/budget_data.csv"
 
 
 monthCount = 0
